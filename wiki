@@ -1,0 +1,1234 @@
+<!DOCTYPE html>
+<html lang="pt" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Lista de municípios de Pernambuco por PIB per capita – Wikipédia, a enciclopédia livre</title>
+<meta name="generator" content="MediaWiki 1.26wmf4" />
+<link rel="alternate" href="android-app://org.wikipedia/http/pt.m.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita" />
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;action=edit" />
+<link rel="edit" title="Editar" href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (pt)" />
+<link rel="EditURI" type="application/rsd+xml" href="//pt.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="''Feed'' Atom Wikipédia" href="/w/index.php?title=Especial:Mudan%C3%A7as_recentes&amp;feed=atom" />
+<link rel="canonical" href="http://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita" />
+<link rel="stylesheet" href="//pt.wikipedia.org/w/load.php?debug=false&amp;lang=pt&amp;modules=ext.gadget.ElementosOcultaveis%2CEnhancedSearch%2CFeedbackHighlight%2CInterprojectLinks%2CMetacaixa%2CNewVillagePump%2CPagesForDeletion%2CReferenceTooltips%2CSVGPNG%2CTitleRewrite%2CTopicon%2CWikiMiniAtlas%2Ccharinsert%2Cfeatured-articles-links%2ChideRefBrakets%2Cwikibugs%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//pt.wikipedia.org/w/load.php?debug=false&amp;lang=pt&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: ptwiki:resourceloader:filter:minify-css:7:c1db8985ed085af2fe0d9d42411a9144 */</style>
+<script src="//pt.wikipedia.org/w/load.php?debug=false&amp;lang=pt&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lista_de_municípios_de_Pernambuco_por_PIB_per_capita","wgTitle":"Lista de municípios de Pernambuco por PIB per capita","wgCurRevisionId":40995351,"wgRevisionId":40995351,"wgArticleId":4256528,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["!Páginas com ficheiros inexistentes","Listas de municípios de Pernambuco","Listas de municípios do Brasil por PIB per capita"],"wgBreakFrames":false,"wgPageContentLanguage":"pt","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"wgMonthNamesShort":["","jan.","fev.","mar.","abr.","Maio","jun.","jul.","ago.","set.","out.","nov.","dez."],"wgRelevantPageName":"Lista_de_municípios_de_Pernambuco_por_PIB_per_capita","wgRelevantArticleId":4256528,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"pt","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["pt-br","pt","en-us","en"],"wgULSCurrentAutonym":"português","wgBetaFeaturesFeatures":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"pt"});});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+/* cache key: ptwiki:resourceloader:filter:minify-js:7:6a442f2e8c0ca3dac7086a7cb0badb1a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf4/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lista_de_municípios_de_Pernambuco_por_PIB_per_capita skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="pt">Lista de municípios de Pernambuco por PIB per capita</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Origem: Wikipédia, a enciclopédia livre.</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Ir para:					<a href="#mw-head">navegação</a>, 					<a href="#p-search">pesquisa</a>
+				</div>
+				<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/Ficheiro:Mapa_de_PE_por_PIB_per_capita.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mapa_de_PE_por_PIB_per_capita.png/400px-Mapa_de_PE_por_PIB_per_capita.png" width="400" height="203" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mapa_de_PE_por_PIB_per_capita.png/600px-Mapa_de_PE_por_PIB_per_capita.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mapa_de_PE_por_PIB_per_capita.png/800px-Mapa_de_PE_por_PIB_per_capita.png 2x" data-file-width="993" data-file-height="505" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Ficheiro:Mapa_de_PE_por_PIB_per_capita.png" class="internal" title="Ampliar"></a></div>
+<table width="100%">
+<tr>
+<td valign="top">
+<div class="legend"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color:#006400; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Acima de R$ 100 milhões</div>
+<div class="legend"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color:#458B00; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;R$ 20 a 29 bilhões</div>
+<div class="legend"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color:#228B22; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;R$ 10 a 19 milhões</div>
+<div class="legend"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color:#7CFC00; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;R$ 5 a 9 milhões</div>
+<div class="legend"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color:#00FA9A; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;menor que R$ 5 milhões</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<p>Abaixo a lista de municípios do estado de <a href="/wiki/Pernambuco" title="Pernambuco">Pernambuco</a> por <a href="/wiki/Produto_interno_bruto" title="Produto interno bruto">PIB</a> <i>per capita</i>. Os valores foram divulgados pelo <a href="/wiki/Instituto_Brasileiro_de_Geografia_e_Estat%C3%ADstica" title="Instituto Brasileiro de Geografia e Estatística">Instituto Brasileiro de Geografia e Estatística</a> em dezembro de 2014 e são referentes ao ano de 2012.<sup id="cite_ref-IBGE_PIB_percapita_1-0" class="reference"><a href="#cite_note-IBGE_PIB_percapita-1"><span>[</span>1<span>]</span></a></sup></p>
+<table class="wikitable sortable">
+<tr>
+<th>Posição</th>
+<th>Município</th>
+<th>PIB <i>per capita</i></th>
+</tr>
+<tr>
+<td>1</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ipojuca_Flag.jpg/20px-Ipojuca_Flag.jpg" width="20" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ipojuca_Flag.jpg/30px-Ipojuca_Flag.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ipojuca_Flag.jpg/40px-Ipojuca_Flag.jpg 2x" data-file-width="140" data-file-height="112" /> <a href="/wiki/Ipojuca" title="Ipojuca">Ipojuca</a></td>
+<td>138&#160;273&#160;00</td>
+</tr>
+<tr>
+<td>2</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bandeira-cabodesantoagostinho.png/20px-Bandeira-cabodesantoagostinho.png" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bandeira-cabodesantoagostinho.png/30px-Bandeira-cabodesantoagostinho.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bandeira-cabodesantoagostinho.png/40px-Bandeira-cabodesantoagostinho.png 2x" data-file-width="360" data-file-height="216" /> <a href="/wiki/Cabo_de_Santo_Agostinho" title="Cabo de Santo Agostinho">Cabo de Santo Agostinho</a></td>
+<td>31&#160;741&#160;83</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="/wiki/Wikipedia:Carregar_ficheiro?wpDestFile=Bandeira_de_Itapissuma_(PE).JPG" class="new" title="Ficheiro:Bandeira de Itapissuma (PE).JPG">20px</a> <a href="/wiki/Itapissuma" title="Itapissuma">Itapissuma</a></td>
+<td>30&#160;407&#160;59</td>
+</tr>
+<tr>
+<td>4</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bandeira_petrolandia.jpg/20px-Bandeira_petrolandia.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bandeira_petrolandia.jpg/30px-Bandeira_petrolandia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bandeira_petrolandia.jpg/40px-Bandeira_petrolandia.jpg 2x" data-file-width="143" data-file-height="100" /> <a href="/wiki/Petrol%C3%A2ndia_(Pernambuco)" title="Petrolândia (Pernambuco)">Petrolândia</a></td>
+<td>24&#160;548&#160;04</td>
+</tr>
+<tr>
+<td>5</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Band_recife.png/20px-Band_recife.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Band_recife.png/30px-Band_recife.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Band_recife.png/40px-Band_recife.png 2x" data-file-width="250" data-file-height="176" /> <a href="/wiki/Recife" title="Recife">Recife</a></td>
+<td>23&#160;679&#160;08</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="/wiki/Camutanga" title="Camutanga">Camutanga</a></td>
+<td>23&#160;151&#160;47</td>
+</tr>
+<tr>
+<td>7</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bandeira-fernandodenoronha.png/20px-Bandeira-fernandodenoronha.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bandeira-fernandodenoronha.png/30px-Bandeira-fernandodenoronha.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bandeira-fernandodenoronha.png/40px-Bandeira-fernandodenoronha.png 2x" data-file-width="310" data-file-height="216" /> <a href="/wiki/Fernando_de_Noronha" title="Fernando de Noronha">Fernando de Noronha</a></td>
+<td>16&#160;137&#160;06</td>
+</tr>
+<tr>
+<td>8</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_vitoria_de_santo_antao.jpg/20px-Bandeira_vitoria_de_santo_antao.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_vitoria_de_santo_antao.jpg/30px-Bandeira_vitoria_de_santo_antao.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_vitoria_de_santo_antao.jpg/40px-Bandeira_vitoria_de_santo_antao.jpg 2x" data-file-width="600" data-file-height="376" /> <a href="/wiki/Vit%C3%B3ria_de_Santo_Ant%C3%A3o" title="Vitória de Santo Antão">Vitória de Santo Antão</a></td>
+<td>15&#160;016&#160;74</td>
+</tr>
+<tr>
+<td>9</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg/20px-Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg/30px-Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg/40px-Bandeira_JaboataodosGuararapes_Pernambuco_Brasil.svg.png 2x" data-file-width="709" data-file-height="472" /> <a href="/wiki/Jaboat%C3%A3o_dos_Guararapes" title="Jaboatão dos Guararapes">Jaboatão dos Guararapes</a></td>
+<td>14&#160;478&#160;20</td>
+</tr>
+<tr>
+<td>10</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bandeira_de_Igarassu.png/20px-Bandeira_de_Igarassu.png" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bandeira_de_Igarassu.png/30px-Bandeira_de_Igarassu.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bandeira_de_Igarassu.png/40px-Bandeira_de_Igarassu.png 2x" data-file-width="335" data-file-height="203" /> <a href="/wiki/Igarassu" title="Igarassu">Igarassu</a></td>
+<td>14&#160;008&#160;17</td>
+</tr>
+<tr>
+<td>11</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bandeira_de_Belo_Jardim.svg/20px-Bandeira_de_Belo_Jardim.svg.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bandeira_de_Belo_Jardim.svg/30px-Bandeira_de_Belo_Jardim.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bandeira_de_Belo_Jardim.svg/40px-Bandeira_de_Belo_Jardim.svg.png 2x" data-file-width="1052" data-file-height="716" /> <a href="/wiki/Belo_Jardim" title="Belo Jardim">Belo Jardim</a></td>
+<td>13&#160;352&#160;73</td>
+</tr>
+<tr>
+<td>12</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bandeira_petrolina.svg/20px-Bandeira_petrolina.svg.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bandeira_petrolina.svg/30px-Bandeira_petrolina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bandeira_petrolina.svg/40px-Bandeira_petrolina.svg.png 2x" data-file-width="800" data-file-height="569" /> <a href="/wiki/Petrolina" title="Petrolina">Petrolina</a></td>
+<td>12&#160;399&#160;02</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="/wiki/Ficheiro:Bandeira_caruaru.jpg" class="image"><img alt="Bandeira caruaru.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bandeira_caruaru.jpg/20px-Bandeira_caruaru.jpg" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bandeira_caruaru.jpg/30px-Bandeira_caruaru.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bandeira_caruaru.jpg/40px-Bandeira_caruaru.jpg 2x" data-file-width="321" data-file-height="216" /></a> <a href="/wiki/Caruaru" title="Caruaru">Caruaru</a></td>
+<td>11&#160;950&#160;04</td>
+</tr>
+<tr>
+<td>14</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bandeira_de_Goiana_-_PE.jpg/20px-Bandeira_de_Goiana_-_PE.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bandeira_de_Goiana_-_PE.jpg/30px-Bandeira_de_Goiana_-_PE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bandeira_de_Goiana_-_PE.jpg/40px-Bandeira_de_Goiana_-_PE.jpg 2x" data-file-width="818" data-file-height="577" /> <a href="/wiki/Goiana" title="Goiana">Goiana</a></td>
+<td>11&#160;491&#160;63</td>
+</tr>
+<tr>
+<td>15</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bandeira_serra_talhada.PNG/20px-Bandeira_serra_talhada.PNG" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bandeira_serra_talhada.PNG/30px-Bandeira_serra_talhada.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bandeira_serra_talhada.PNG/40px-Bandeira_serra_talhada.PNG 2x" data-file-width="409" data-file-height="281" /> <a href="/wiki/Serra_Talhada" title="Serra Talhada">Serra Talhada</a></td>
+<td>11&#160;443&#160;28</td>
+</tr>
+<tr>
+<td>16</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bandeira-floresta.png/20px-Bandeira-floresta.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bandeira-floresta.png/30px-Bandeira-floresta.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bandeira-floresta.png/40px-Bandeira-floresta.png 2x" data-file-width="309" data-file-height="216" /> <a href="/wiki/Floresta_(Pernambuco)" title="Floresta (Pernambuco)">Floresta</a></td>
+<td>11&#160;314&#160;66</td>
+</tr>
+<tr>
+<td>17</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bandeira_salgueiro.png/20px-Bandeira_salgueiro.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bandeira_salgueiro.png/30px-Bandeira_salgueiro.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bandeira_salgueiro.png/40px-Bandeira_salgueiro.png 2x" data-file-width="105" data-file-height="71" /> <a href="/wiki/Salgueiro_(Pernambuco)" title="Salgueiro (Pernambuco)">Salgueiro</a></td>
+<td>10&#160;923&#160;37</td>
+</tr>
+<tr>
+<td>18</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Abreu_e_Lima_Flag.png/20px-Abreu_e_Lima_Flag.png" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Abreu_e_Lima_Flag.png/30px-Abreu_e_Lima_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Abreu_e_Lima_Flag.png/40px-Abreu_e_Lima_Flag.png 2x" data-file-width="800" data-file-height="457" /> <a href="/wiki/Abreu_e_Lima" title="Abreu e Lima">Abreu e Lima</a></td>
+<td>10&#160;770&#160;91</td>
+</tr>
+<tr>
+<td>19</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/BandeiraGaranhuns.svg/20px-BandeiraGaranhuns.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/BandeiraGaranhuns.svg/30px-BandeiraGaranhuns.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/BandeiraGaranhuns.svg/40px-BandeiraGaranhuns.svg.png 2x" data-file-width="750" data-file-height="470" /> <a href="/wiki/Garanhuns" title="Garanhuns">Garanhuns</a></td>
+<td>10&#160;589&#160;46</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="/wiki/Wikipedia:Carregar_ficheiro?wpDestFile=Bandeira_de_Lagoa_grande_(PE).jpg" class="new" title="Ficheiro:Bandeira de Lagoa grande (PE).jpg">20px</a> <a href="/wiki/Lagoa_Grande_(Pernambuco)" title="Lagoa Grande (Pernambuco)">Lagoa Grande</a></td>
+<td>10&#160;469&#160;71</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="/wiki/Toritama" title="Toritama">Toritama</a></td>
+<td>10&#160;296&#160;67</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="/wiki/Lagoa_de_Itaenga" title="Lagoa de Itaenga">Lagoa de Itaenga</a></td>
+<td>10&#160;293&#160;86</td>
+</tr>
+<tr>
+<td>23</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bandeiracarpinape.jpg/20px-Bandeiracarpinape.jpg" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bandeiracarpinape.jpg/30px-Bandeiracarpinape.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bandeiracarpinape.jpg/40px-Bandeiracarpinape.jpg 2x" data-file-width="397" data-file-height="234" /> <a href="/wiki/Carpina" title="Carpina">Carpina</a></td>
+<td>9&#160;940&#160;10</td>
+</tr>
+<tr>
+<td>24</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bandeira_de_Olinda.png/20px-Bandeira_de_Olinda.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bandeira_de_Olinda.png/30px-Bandeira_de_Olinda.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bandeira_de_Olinda.png/40px-Bandeira_de_Olinda.png 2x" data-file-width="450" data-file-height="309" /> <a href="/wiki/Olinda" title="Olinda">Olinda</a></td>
+<td>9&#160;723&#160;19</td>
+</tr>
+<tr>
+<td>25</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandeira_de_Nazare_da_Mata.jpg/20px-Bandeira_de_Nazare_da_Mata.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandeira_de_Nazare_da_Mata.jpg/30px-Bandeira_de_Nazare_da_Mata.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandeira_de_Nazare_da_Mata.jpg/40px-Bandeira_de_Nazare_da_Mata.jpg 2x" data-file-width="1448" data-file-height="978" /> <a href="/wiki/Nazar%C3%A9_da_Mata" title="Nazaré da Mata">Nazaré da Mata</a></td>
+<td>9&#160;283&#160;41</td>
+</tr>
+<tr>
+<td>26</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bandeiratimbauba.jpg/20px-Bandeiratimbauba.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bandeiratimbauba.jpg/30px-Bandeiratimbauba.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bandeiratimbauba.jpg/40px-Bandeiratimbauba.jpg 2x" data-file-width="269" data-file-height="191" /> <a href="/wiki/Timba%C3%BAba" title="Timbaúba">Timbaúba</a></td>
+<td>9&#160;281&#160;38</td>
+</tr>
+<tr>
+<td>27</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BandeiraPaulistaPE.png/20px-BandeiraPaulistaPE.png" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BandeiraPaulistaPE.png/30px-BandeiraPaulistaPE.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BandeiraPaulistaPE.png/40px-BandeiraPaulistaPE.png 2x" data-file-width="494" data-file-height="298" /> <a href="/wiki/Paulista_(Pernambuco)" title="Paulista (Pernambuco)">Paulista</a></td>
+<td>9&#160;161&#160;07</td>
+</tr>
+<tr>
+<td>28</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bandeira_Rio_Formoso.jpg/20px-Bandeira_Rio_Formoso.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bandeira_Rio_Formoso.jpg/30px-Bandeira_Rio_Formoso.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bandeira_Rio_Formoso.jpg/40px-Bandeira_Rio_Formoso.jpg 2x" data-file-width="138" data-file-height="97" /> <a href="/wiki/Rio_Formoso" title="Rio Formoso">Rio Formoso</a></td>
+<td>9&#160;157&#160;50</td>
+</tr>
+<tr>
+<td>29</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bandeira_Tamandar%C3%A9_PE.jpg/20px-Bandeira_Tamandar%C3%A9_PE.jpg" width="20" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bandeira_Tamandar%C3%A9_PE.jpg/30px-Bandeira_Tamandar%C3%A9_PE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bandeira_Tamandar%C3%A9_PE.jpg/40px-Bandeira_Tamandar%C3%A9_PE.jpg 2x" data-file-width="355" data-file-height="295" /> <a href="/wiki/Tamandar%C3%A9_(Pernambuco)" title="Tamandaré (Pernambuco)">Tamandaré</a></td>
+<td>9&#160;101&#160;84</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="/wiki/Joaquim_Nabuco_(Pernambuco)" title="Joaquim Nabuco (Pernambuco)">Joaquim Nabuco</a></td>
+<td>8&#160;971&#160;08</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="/wiki/Palmares" title="Palmares">Palmares</a></td>
+<td>8&#160;878&#160;68</td>
+</tr>
+<tr>
+<td>32</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Primavera_(Pernambuco)" title="Primavera (Pernambuco)">Primavera</a></td>
+<td>8&#160;640&#160;83</td>
+</tr>
+<tr>
+<td>33</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bandeira_de_Sirinha%C3%A9m.jpg/20px-Bandeira_de_Sirinha%C3%A9m.jpg" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bandeira_de_Sirinha%C3%A9m.jpg/30px-Bandeira_de_Sirinha%C3%A9m.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bandeira_de_Sirinha%C3%A9m.jpg/40px-Bandeira_de_Sirinha%C3%A9m.jpg 2x" data-file-width="259" data-file-height="195" /> <a href="/wiki/Sirinha%C3%A9m" title="Sirinhaém">Sirinhaém</a></td>
+<td>8&#160;552&#160;60</td>
+</tr>
+<tr>
+<td>34</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bandeira_scc.jpg/20px-Bandeira_scc.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bandeira_scc.jpg/30px-Bandeira_scc.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bandeira_scc.jpg/40px-Bandeira_scc.jpg 2x" data-file-width="800" data-file-height="527" /> <a href="/wiki/Santa_Cruz_do_Capibaribe" title="Santa Cruz do Capibaribe">Santa Cruz do Capibaribe</a></td>
+<td>8&#160;336&#160;88</td>
+</tr>
+<tr>
+<td>35</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bandeira_de_arcoverde.JPG/20px-Bandeira_de_arcoverde.JPG" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bandeira_de_arcoverde.JPG/30px-Bandeira_de_arcoverde.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bandeira_de_arcoverde.JPG/40px-Bandeira_de_arcoverde.JPG 2x" data-file-width="1024" data-file-height="629" /> <a href="/wiki/Arcoverde" title="Arcoverde">Arcoverde</a></td>
+<td>8&#160;303&#160;56</td>
+</tr>
+<tr>
+<td>36</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bandeira_escada.jpg/20px-Bandeira_escada.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bandeira_escada.jpg/30px-Bandeira_escada.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bandeira_escada.jpg/40px-Bandeira_escada.jpg 2x" data-file-width="350" data-file-height="250" /> <a href="/wiki/Escada_(Pernambuco)" title="Escada (Pernambuco)">Escada</a></td>
+<td>8&#160;207&#160;59</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="/wiki/Cabrob%C3%B3" title="Cabrobó">Cabrobó</a></td>
+<td>8&#160;127&#160;35</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="/wiki/Cort%C3%AAs" title="Cortês">Cortês</a></td>
+<td>8&#160;088&#160;09</td>
+</tr>
+<tr>
+<td>39</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Itacuruba" title="Itacuruba">Itacuruba</a></td>
+<td>8&#160;044&#160;01</td>
+</tr>
+<tr>
+<td>40</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bandeira_de_gravata.png/20px-Bandeira_de_gravata.png" width="20" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bandeira_de_gravata.png/30px-Bandeira_de_gravata.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bandeira_de_gravata.png/40px-Bandeira_de_gravata.png 2x" data-file-width="500" data-file-height="421" /> <a href="/wiki/Gravat%C3%A1_(Pernambuco)" title="Gravatá (Pernambuco)">Gravatá</a></td>
+<td>8&#160;040&#160;24</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="/wiki/Oroc%C3%B3" title="Orocó">Orocó</a></td>
+<td>7&#160;895&#160;42</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="/wiki/Dormentes" title="Dormentes">Dormentes</a></td>
+<td>7&#160;813&#160;39</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="/wiki/Itaquitinga" title="Itaquitinga">Itaquitinga</a></td>
+<td>7&#160;707&#160;51</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="/wiki/Santa_Maria_da_Boa_Vista" title="Santa Maria da Boa Vista">Santa Maria da Boa Vista</a></td>
+<td>7&#160;643&#160;25</td>
+</tr>
+<tr>
+<td>45</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandeira_de_Sair%C3%A9.jpg/20px-Bandeira_de_Sair%C3%A9.jpg" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandeira_de_Sair%C3%A9.jpg/30px-Bandeira_de_Sair%C3%A9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandeira_de_Sair%C3%A9.jpg/40px-Bandeira_de_Sair%C3%A9.jpg 2x" data-file-width="2425" data-file-height="1416" /> <a href="/wiki/Sair%C3%A9" title="Sairé">Sairé</a></td>
+<td>7&#160;618&#160;37</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="/wiki/Brej%C3%A3o" title="Brejão">Brejão</a></td>
+<td>7&#160;432&#160;01</td>
+</tr>
+<tr>
+<td>47</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bandeira-bezerros-pernambuco.jpg/20px-Bandeira-bezerros-pernambuco.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bandeira-bezerros-pernambuco.jpg/30px-Bandeira-bezerros-pernambuco.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bandeira-bezerros-pernambuco.jpg/40px-Bandeira-bezerros-pernambuco.jpg 2x" data-file-width="405" data-file-height="287" /> <a href="/wiki/Bezerros" title="Bezerros">Bezerros</a></td>
+<td>7&#160;423&#160;72</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="/wiki/Cust%C3%B3dia" title="Custódia">Custódia</a></td>
+<td>7&#160;331&#160;23</td>
+</tr>
+<tr>
+<td>49</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_Surubim.jpg/20px-Bandeira_Surubim.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_Surubim.jpg/30px-Bandeira_Surubim.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_Surubim.jpg/40px-Bandeira_Surubim.jpg 2x" data-file-width="200" data-file-height="138" /> <a href="/wiki/Surubim" title="Surubim">Surubim</a></td>
+<td>7&#160;295&#160;12</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="/wiki/Limoeiro_(Pernambuco)" title="Limoeiro (Pernambuco)">Limoeiro</a></td>
+<td>7&#160;286&#160;69</td>
+</tr>
+<tr>
+<td>51</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_afogados.jpg/20px-Bandeira_afogados.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_afogados.jpg/30px-Bandeira_afogados.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_afogados.jpg/40px-Bandeira_afogados.jpg 2x" data-file-width="250" data-file-height="176" /> <a href="/wiki/Afogados_da_Ingazeira" title="Afogados da Ingazeira">Afogados da Ingazeira</a></td>
+<td>7&#160;266&#160;10</td>
+</tr>
+<tr>
+<td>52</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Trindadepe.jpg/20px-Trindadepe.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Trindadepe.jpg/30px-Trindadepe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Trindadepe.jpg/40px-Trindadepe.jpg 2x" data-file-width="573" data-file-height="372" /> <a href="/wiki/Trindade_(Pernambuco)" title="Trindade (Pernambuco)">Trindade</a></td>
+<td>7&#160;165&#160;32</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="/wiki/Vic%C3%AAncia" title="Vicência">Vicência</a></td>
+<td>7&#160;148&#160;56</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="/wiki/S%C3%A3o_Bento_do_Una" title="São Bento do Una">São Bento do Una</a></td>
+<td>7&#160;072&#160;81</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="/wiki/Bom_Conselho" title="Bom Conselho">Bom Conselho</a></td>
+<td>7&#160;019&#160;43</td>
+</tr>
+<tr>
+<td>56</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bandeira_de_Pombos_PE.jpg/20px-Bandeira_de_Pombos_PE.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bandeira_de_Pombos_PE.jpg/30px-Bandeira_de_Pombos_PE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bandeira_de_Pombos_PE.jpg/40px-Bandeira_de_Pombos_PE.jpg 2x" data-file-width="233" data-file-height="156" /> <a href="/wiki/Pombos_(Pernambuco)" title="Pombos (Pernambuco)">Pombos</a></td>
+<td>6&#160;964&#160;03</td>
+</tr>
+<tr>
+<td>57</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bandeira-pesqueira-pernambuco.jpg/20px-Bandeira-pesqueira-pernambuco.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bandeira-pesqueira-pernambuco.jpg/30px-Bandeira-pesqueira-pernambuco.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bandeira-pesqueira-pernambuco.jpg/40px-Bandeira-pesqueira-pernambuco.jpg 2x" data-file-width="150" data-file-height="96" /> <a href="/wiki/Pesqueira" title="Pesqueira">Pesqueira</a></td>
+<td>6&#160;920&#160;22</td>
+</tr>
+<tr>
+<td>58</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BANDEIRA_S%C3%83O_VICENTE_F%C3%89RRER.JPG/20px-BANDEIRA_S%C3%83O_VICENTE_F%C3%89RRER.JPG" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BANDEIRA_S%C3%83O_VICENTE_F%C3%89RRER.JPG/30px-BANDEIRA_S%C3%83O_VICENTE_F%C3%89RRER.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BANDEIRA_S%C3%83O_VICENTE_F%C3%89RRER.JPG/40px-BANDEIRA_S%C3%83O_VICENTE_F%C3%89RRER.JPG 2x" data-file-width="3426" data-file-height="2363" /> <a href="/wiki/S%C3%A3o_Vicente_Ferrer_(Pernambuco)" title="São Vicente Ferrer (Pernambuco)" class="mw-redirect">São Vicente Ferrer</a></td>
+<td>6&#160;849&#160;37</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="/wiki/Pedra_(Pernambuco)" title="Pedra (Pernambuco)">Pedra</a></td>
+<td>6&#160;818&#160;06</td>
+</tr>
+<tr>
+<td>60</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandeira_slm.jpg/20px-Bandeira_slm.jpg" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandeira_slm.jpg/30px-Bandeira_slm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandeira_slm.jpg/40px-Bandeira_slm.jpg 2x" data-file-width="273" data-file-height="201" /> <a href="/wiki/S%C3%A3o_Louren%C3%A7o_da_Mata" title="São Lourenço da Mata">São Lourenço da Mata</a></td>
+<td>6&#160;794&#160;39</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="/wiki/Vertente_do_L%C3%A9rio" title="Vertente do Lério">Vertente do Lério</a></td>
+<td>6&#160;707&#160;33</td>
+</tr>
+<tr>
+<td>62</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bandeira_moreno.jpg/20px-Bandeira_moreno.jpg" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bandeira_moreno.jpg/30px-Bandeira_moreno.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bandeira_moreno.jpg/40px-Bandeira_moreno.jpg 2x" data-file-width="450" data-file-height="347" /> <a href="/wiki/Moreno" title="Moreno">Moreno</a></td>
+<td>6&#160;680&#160;52</td>
+</tr>
+<tr>
+<td>63</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_lajedo.jpg/20px-Bandeira_lajedo.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_lajedo.jpg/30px-Bandeira_lajedo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_lajedo.jpg/40px-Bandeira_lajedo.jpg 2x" data-file-width="125" data-file-height="80" /> <a href="/wiki/Lajedo_(Pernambuco)" title="Lajedo (Pernambuco)">Lajedo</a></td>
+<td>6&#160;645&#160;57</td>
+</tr>
+<tr>
+<td>64</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Inaj%C3%A1_(Pernambuco)" title="Inajá (Pernambuco)">Inajá</a></td>
+<td>6&#160;582&#160;77</td>
+</tr>
+<tr>
+<td>65</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bandeira_buique.jpg/20px-Bandeira_buique.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bandeira_buique.jpg/30px-Bandeira_buique.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bandeira_buique.jpg/40px-Bandeira_buique.jpg 2x" data-file-width="800" data-file-height="564" /> <a href="/wiki/Bu%C3%ADque" title="Buíque">Buíque</a></td>
+<td>6&#160;520&#160;11</td>
+</tr>
+<tr>
+<td>66</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bandeira_de_Paudalho.jpg/20px-Bandeira_de_Paudalho.jpg" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bandeira_de_Paudalho.jpg/30px-Bandeira_de_Paudalho.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bandeira_de_Paudalho.jpg/40px-Bandeira_de_Paudalho.jpg 2x" data-file-width="321" data-file-height="199" /> <a href="/wiki/Paudalho" title="Paudalho">Paudalho</a></td>
+<td>6&#160;518&#160;77</td>
+</tr>
+<tr>
+<td>67</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bandeira_belem_sao_francisco_pe.jpg/20px-Bandeira_belem_sao_francisco_pe.jpg" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bandeira_belem_sao_francisco_pe.jpg/30px-Bandeira_belem_sao_francisco_pe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bandeira_belem_sao_francisco_pe.jpg/40px-Bandeira_belem_sao_francisco_pe.jpg 2x" data-file-width="600" data-file-height="365" /> <a href="/wiki/Bel%C3%A9m_do_S%C3%A3o_Francisco" title="Belém do São Francisco">Belém do São Francisco</a></td>
+<td>6&#160;518&#160;48</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="/wiki/Venturosa" title="Venturosa">Venturosa</a></td>
+<td>6&#160;491&#160;91</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="/wiki/Itamb%C3%A9_(Pernambuco)" title="Itambé (Pernambuco)">Itambé</a></td>
+<td>6&#160;477&#160;27</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="/wiki/Ita%C3%ADba" title="Itaíba">Itaíba</a></td>
+<td>6&#160;471&#160;90</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="/wiki/Tuparetama" title="Tuparetama">Tuparetama</a></td>
+<td>6&#160;456&#160;85</td>
+</tr>
+<tr>
+<td>72</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Parnamirim_(Pernambuco)" title="Parnamirim (Pernambuco)">Parnamirim</a></td>
+<td>6&#160;453&#160;70</td>
+</tr>
+<tr>
+<td>73</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bandeira_de_agrestina.JPG/20px-Bandeira_de_agrestina.JPG" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bandeira_de_agrestina.JPG/30px-Bandeira_de_agrestina.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bandeira_de_agrestina.JPG/40px-Bandeira_de_agrestina.JPG 2x" data-file-width="621" data-file-height="430" /> <a href="/wiki/Agrestina" title="Agrestina">Agrestina</a></td>
+<td>6&#160;427&#160;57</td>
+</tr>
+<tr>
+<td>74</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bandeira_Bonito_PE.jpg/20px-Bandeira_Bonito_PE.jpg" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bandeira_Bonito_PE.jpg/30px-Bandeira_Bonito_PE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bandeira_Bonito_PE.jpg/40px-Bandeira_Bonito_PE.jpg 2x" data-file-width="1187" data-file-height="713" /> <a href="/wiki/Bonito_(Pernambuco)" title="Bonito (Pernambuco)">Bonito</a></td>
+<td>6&#160;385&#160;69</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="/wiki/S%C3%A3o_Jos%C3%A9_da_Coroa_Grande" title="São José da Coroa Grande">São José da Coroa Grande</a></td>
+<td>6&#160;383&#160;79</td>
+</tr>
+<tr>
+<td>76</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Itamaraca_Bandeira.jpg/20px-Itamaraca_Bandeira.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Itamaraca_Bandeira.jpg/30px-Itamaraca_Bandeira.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Itamaraca_Bandeira.jpg/40px-Itamaraca_Bandeira.jpg 2x" data-file-width="372" data-file-height="262" /> <a href="/wiki/Ilha_de_Itamarac%C3%A1" title="Ilha de Itamaracá">Ilha de Itamaracá</a></td>
+<td>6&#160;344&#160;34</td>
+</tr>
+<tr>
+<td>77</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bandeira_Camaragibe.jpg/20px-Bandeira_Camaragibe.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bandeira_Camaragibe.jpg/30px-Bandeira_Camaragibe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bandeira_Camaragibe.jpg/40px-Bandeira_Camaragibe.jpg 2x" data-file-width="270" data-file-height="172" /> <a href="/wiki/Camaragibe" title="Camaragibe">Camaragibe</a></td>
+<td>6&#160;343&#160;95</td>
+</tr>
+<tr>
+<td>78</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandeira_de_Barreiros.png/20px-Bandeira_de_Barreiros.png" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandeira_de_Barreiros.png/30px-Bandeira_de_Barreiros.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandeira_de_Barreiros.png/40px-Bandeira_de_Barreiros.png 2x" data-file-width="454" data-file-height="278" /> <a href="/wiki/Barreiros_(Pernambuco)" title="Barreiros (Pernambuco)">Barreiros</a></td>
+<td>6&#160;343&#160;38</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="/wiki/Sert%C3%A2nia" title="Sertânia">Sertânia</a></td>
+<td>6&#160;343&#160;27</td>
+</tr>
+<tr>
+<td>80</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandeira_Araripina.jpg/20px-Bandeira_Araripina.jpg" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandeira_Araripina.jpg/30px-Bandeira_Araripina.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandeira_Araripina.jpg/40px-Bandeira_Araripina.jpg 2x" data-file-width="450" data-file-height="333" /> <a href="/wiki/Araripina" title="Araripina">Araripina</a></td>
+<td>6&#160;325&#160;79</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="/wiki/Riacho_das_Almas" title="Riacho das Almas">Riacho das Almas</a></td>
+<td>6&#160;289&#160;77</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="/wiki/Ribeir%C3%A3o_(Pernambuco)" title="Ribeirão (Pernambuco)">Ribeirão</a></td>
+<td>6&#160;272&#160;26</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="/wiki/Jucati" title="Jucati">Jucati</a></td>
+<td>6&#160;257&#160;88</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="/wiki/S%C3%A3o_Jos%C3%A9_do_Egito" title="São José do Egito">São José do Egito</a></td>
+<td>6&#160;205&#160;81</td>
+</tr>
+<tr>
+<td>85</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bandeira-macaparana.png/20px-Bandeira-macaparana.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bandeira-macaparana.png/30px-Bandeira-macaparana.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bandeira-macaparana.png/40px-Bandeira-macaparana.png 2x" data-file-width="309" data-file-height="216" /> <a href="/wiki/Macaparana" title="Macaparana">Macaparana</a></td>
+<td>6&#160;203&#160;71</td>
+</tr>
+<tr>
+<td>86</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Paranatama" title="Paranatama">Paranatama</a></td>
+<td>6&#160;201&#160;39</td>
+</tr>
+<tr>
+<td>87</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandeira_de_ch%C3%A3_grande.jpg/20px-Bandeira_de_ch%C3%A3_grande.jpg" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandeira_de_ch%C3%A3_grande.jpg/30px-Bandeira_de_ch%C3%A3_grande.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandeira_de_ch%C3%A3_grande.jpg/40px-Bandeira_de_ch%C3%A3_grande.jpg 2x" data-file-width="500" data-file-height="376" /> <a href="/wiki/Ch%C3%A3_Grande" title="Chã Grande">Chã Grande</a></td>
+<td>6&#160;195&#160;97</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="/wiki/Ferreiros_(Pernambuco)" title="Ferreiros (Pernambuco)">Ferreiros</a></td>
+<td>6&#160;183&#160;97</td>
+</tr>
+<tr>
+<td>89</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bandeira_cupira.jpg/20px-Bandeira_cupira.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bandeira_cupira.jpg/30px-Bandeira_cupira.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bandeira_cupira.jpg/40px-Bandeira_cupira.jpg 2x" data-file-width="640" data-file-height="421" /> <a href="/wiki/Cupira" title="Cupira">Cupira</a></td>
+<td>6&#160;180&#160;07</td>
+</tr>
+<tr>
+<td>90</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bandeiramunjupi.svg/20px-Bandeiramunjupi.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bandeiramunjupi.svg/30px-Bandeiramunjupi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bandeiramunjupi.svg/40px-Bandeiramunjupi.svg.png 2x" data-file-width="1027" data-file-height="684" /> <a href="/wiki/Jupi" title="Jupi">Jupi</a></td>
+<td>6&#160;138&#160;14</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="/wiki/Taquaritinga_do_Norte" title="Taquaritinga do Norte">Taquaritinga do Norte</a></td>
+<td>6&#160;088&#160;89</td>
+</tr>
+<tr>
+<td>92</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bandeira_do_Munic%C3%ADpio_de_Ingazeira.jpg/20px-Bandeira_do_Munic%C3%ADpio_de_Ingazeira.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bandeira_do_Munic%C3%ADpio_de_Ingazeira.jpg/30px-Bandeira_do_Munic%C3%ADpio_de_Ingazeira.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bandeira_do_Munic%C3%ADpio_de_Ingazeira.jpg/40px-Bandeira_do_Munic%C3%ADpio_de_Ingazeira.jpg 2x" data-file-width="381" data-file-height="247" /> <a href="/wiki/Ingazeira" title="Ingazeira">Ingazeira</a></td>
+<td>6&#160;038&#160;89</td>
+</tr>
+<tr>
+<td>93</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Machados" title="Machados">Machados</a></td>
+<td>5&#160;984&#160;23</td>
+</tr>
+<tr>
+<td>94</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Cachoeirinha_(Pernambuco)" title="Cachoeirinha (Pernambuco)">Cachoeirinha</a></td>
+<td>5&#160;974&#160;44</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="/wiki/Ipubi" title="Ipubi">Ipubi</a></td>
+<td>5&#160;966&#160;10</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="/wiki/Cal%C3%A7ado_(Pernambuco)" title="Calçado (Pernambuco)">Calçado</a></td>
+<td>5&#160;880&#160;24</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="/wiki/Cumaru_(Pernambuco)" title="Cumaru (Pernambuco)">Cumaru</a></td>
+<td>5&#160;870&#160;66</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="/wiki/Camocim_de_S%C3%A3o_F%C3%A9lix" title="Camocim de São Félix">Camocim de São Félix</a></td>
+<td>5&#160;866&#160;30</td>
+</tr>
+<tr>
+<td>99</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/S%C3%A3o_Jo%C3%A3o_(Pernambuco)" title="São João (Pernambuco)">São João</a></td>
+<td>5&#160;864&#160;01</td>
+</tr>
+<tr>
+<td>100</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bandeira_terranovaPE.jpg/20px-Bandeira_terranovaPE.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bandeira_terranovaPE.jpg/30px-Bandeira_terranovaPE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bandeira_terranovaPE.jpg/40px-Bandeira_terranovaPE.jpg 2x" data-file-width="1497" data-file-height="1005" /> <a href="/wiki/Terra_Nova_(Pernambuco)" title="Terra Nova (Pernambuco)">Terra Nova</a></td>
+<td>5&#160;840&#160;60</td>
+</tr>
+<tr>
+<td>101</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bandeira-amaraji.png/20px-Bandeira-amaraji.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bandeira-amaraji.png/30px-Bandeira-amaraji.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bandeira-amaraji.png/40px-Bandeira-amaraji.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Amaraji" title="Amaraji">Amaraji</a></td>
+<td>5&#160;787&#160;24</td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="/wiki/Capoeiras" title="Capoeiras">Capoeiras</a></td>
+<td>5&#160;785&#160;71</td>
+</tr>
+<tr>
+<td>103</td>
+<td><a href="/wiki/Ibirajuba" title="Ibirajuba">Ibirajuba</a></td>
+<td>5&#160;737&#160;15</td>
+</tr>
+<tr>
+<td>104</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bandeira_de_Ibimirim.jpg/20px-Bandeira_de_Ibimirim.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bandeira_de_Ibimirim.jpg/30px-Bandeira_de_Ibimirim.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bandeira_de_Ibimirim.jpg/40px-Bandeira_de_Ibimirim.jpg 2x" data-file-width="3543" data-file-height="2362" /> <a href="/wiki/Ibimirim" title="Ibimirim">Ibimirim</a></td>
+<td>5&#160;732&#160;20</td>
+</tr>
+<tr>
+<td>105</td>
+<td><a href="/wiki/Vertentes" title="Vertentes">Vertentes</a></td>
+<td>5&#160;702&#160;54</td>
+</tr>
+<tr>
+<td>106</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Calumbi" title="Calumbi">Calumbi</a></td>
+<td>5&#160;690&#160;70</td>
+</tr>
+<tr>
+<td>107</td>
+<td><a href="/wiki/Jatob%C3%A1_(Pernambuco)" title="Jatobá (Pernambuco)">Jatobá</a></td>
+<td>5&#160;683&#160;24</td>
+</tr>
+<tr>
+<td>108</td>
+<td><a href="/wiki/Tracunha%C3%A9m" title="Tracunhaém">Tracunhaém</a></td>
+<td>5&#160;649&#160;50</td>
+</tr>
+<tr>
+<td>109</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_Ouricuri_PE.jpg/20px-Bandeira_Ouricuri_PE.jpg" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_Ouricuri_PE.jpg/30px-Bandeira_Ouricuri_PE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_Ouricuri_PE.jpg/40px-Bandeira_Ouricuri_PE.jpg 2x" data-file-width="400" data-file-height="237" /> <a href="/wiki/Ouricuri" title="Ouricuri">Ouricuri</a></td>
+<td>5&#160;647&#160;79</td>
+</tr>
+<tr>
+<td>110</td>
+<td><a href="/wiki/Granito_(Pernambuco)" title="Granito (Pernambuco)">Granito</a></td>
+<td>5&#160;640&#160;18</td>
+</tr>
+<tr>
+<td>111</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bandeira_palmeirina.png/20px-Bandeira_palmeirina.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bandeira_palmeirina.png/30px-Bandeira_palmeirina.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bandeira_palmeirina.png/40px-Bandeira_palmeirina.png 2x" data-file-width="150" data-file-height="96" /> <a href="/wiki/Palmeirina" title="Palmeirina">Palmeirina</a></td>
+<td>5&#160;633&#160;86</td>
+</tr>
+<tr>
+<td>112</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bandeira_de_Alagoinha-PE.jpg/20px-Bandeira_de_Alagoinha-PE.jpg" width="20" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bandeira_de_Alagoinha-PE.jpg/30px-Bandeira_de_Alagoinha-PE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bandeira_de_Alagoinha-PE.jpg/40px-Bandeira_de_Alagoinha-PE.jpg 2x" data-file-width="1600" data-file-height="1244" /> <a href="/wiki/Alagoinha_(Pernambuco)" title="Alagoinha (Pernambuco)">Alagoinha</a></td>
+<td>5&#160;632&#160;34</td>
+</tr>
+<tr>
+<td>113</td>
+<td><a href="/wiki/Afr%C3%A2nio" title="Afrânio">Afrânio</a></td>
+<td>5&#160;606&#160;61</td>
+</tr>
+<tr>
+<td>114</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bandeira_mirandiba.jpg/20px-Bandeira_mirandiba.jpg" width="20" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bandeira_mirandiba.jpg/30px-Bandeira_mirandiba.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bandeira_mirandiba.jpg/40px-Bandeira_mirandiba.jpg 2x" data-file-width="248" data-file-height="197" /> <a href="/wiki/Mirandiba" title="Mirandiba">Mirandiba</a></td>
+<td>5&#160;604&#160;66</td>
+</tr>
+<tr>
+<td>115</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/S%C3%A3o_Caetano_(Pernambuco)" title="São Caetano (Pernambuco)">São Caetano</a></td>
+<td>5&#160;597&#160;03</td>
+</tr>
+<tr>
+<td>116</td>
+<td><a href="/wiki/Salo%C3%A1" title="Saloá">Saloá</a></td>
+<td>5&#160;593&#160;37</td>
+</tr>
+<tr>
+<td>117</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandeira_de_Jo%C3%A3o_Alfredo.gif/20px-Bandeira_de_Jo%C3%A3o_Alfredo.gif" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandeira_de_Jo%C3%A3o_Alfredo.gif/30px-Bandeira_de_Jo%C3%A3o_Alfredo.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandeira_de_Jo%C3%A3o_Alfredo.gif/40px-Bandeira_de_Jo%C3%A3o_Alfredo.gif 2x" data-file-width="338" data-file-height="216" /> <a href="/wiki/Jo%C3%A3o_Alfredo" title="João Alfredo">João Alfredo</a></td>
+<td>5&#160;586&#160;99</td>
+</tr>
+<tr>
+<td>118</td>
+<td><a href="/wiki/Tabira" title="Tabira">Tabira</a></td>
+<td>5&#160;585&#160;31</td>
+</tr>
+<tr>
+<td>119</td>
+<td><a href="/wiki/Wikipedia:Carregar_ficheiro?wpDestFile=Bandeira_de_Triunfo_(PE).jpg" class="new" title="Ficheiro:Bandeira de Triunfo (PE).jpg">20px</a> <a href="/wiki/Triunfo_(Pernambuco)" title="Triunfo (Pernambuco)">Triunfo</a></td>
+<td>5&#160;563&#160;77</td>
+</tr>
+<tr>
+<td>120</td>
+<td><a href="/wiki/Sanhar%C3%B3" title="Sanharó">Sanharó</a></td>
+<td>5&#160;522&#160;55</td>
+</tr>
+<tr>
+<td>121</td>
+<td><a href="/wiki/Angelim" title="Angelim">Angelim</a></td>
+<td>5&#160;522&#160;45</td>
+</tr>
+<tr>
+<td>122</td>
+<td><a href="/wiki/Wikipedia:Carregar_ficheiro?wpDestFile=Bandeira_de_Condado_(PE).jpg" class="new" title="Ficheiro:Bandeira de Condado (PE).jpg">20px</a> <a href="/wiki/Condado_(Pernambuco)" title="Condado (Pernambuco)">Condado</a></td>
+<td>5&#160;520&#160;18</td>
+</tr>
+<tr>
+<td>123</td>
+<td><a href="/wiki/Jata%C3%BAba" title="Jataúba">Jataúba</a></td>
+<td>5&#160;507&#160;82</td>
+</tr>
+<tr>
+<td>124</td>
+<td><a href="/wiki/Wikipedia:Carregar_ficheiro?wpDestFile=Bandeira_de_Feira_Nova_(PE).jpg" class="new" title="Ficheiro:Bandeira de Feira Nova (PE).jpg">20px</a> <a href="/wiki/Feira_Nova_(Pernambuco)" title="Feira Nova (Pernambuco)">Feira Nova</a></td>
+<td>5&#160;438&#160;77</td>
+</tr>
+<tr>
+<td>125</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandeira_de_Correntes.jpg/20px-Bandeira_de_Correntes.jpg" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandeira_de_Correntes.jpg/30px-Bandeira_de_Correntes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandeira_de_Correntes.jpg/40px-Bandeira_de_Correntes.jpg 2x" data-file-width="2892" data-file-height="2030" /> <a href="/wiki/Correntes" title="Correntes">Correntes</a></td>
+<td>5&#160;438&#160;29</td>
+</tr>
+<tr>
+<td>126</td>
+<td><a href="/wiki/Bom_Jardim_(Pernambuco)" title="Bom Jardim (Pernambuco)">Bom Jardim</a></td>
+<td>5&#160;416&#160;42</td>
+</tr>
+<tr>
+<td>127</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_do_Exu.jpg/20px-Bandeira_do_Exu.jpg" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_do_Exu.jpg/30px-Bandeira_do_Exu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_do_Exu.jpg/40px-Bandeira_do_Exu.jpg 2x" data-file-width="550" data-file-height="300" /> <a href="/wiki/Exu_(Pernambuco)" title="Exu (Pernambuco)">Exu</a></td>
+<td>5&#160;411&#160;27</td>
+</tr>
+<tr>
+<td>128</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cedrobandeira.jpg/20px-Cedrobandeira.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cedrobandeira.jpg/30px-Cedrobandeira.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cedrobandeira.jpg/40px-Cedrobandeira.jpg 2x" data-file-width="500" data-file-height="335" /> <a href="/wiki/Cedro_(Pernambuco)" title="Cedro (Pernambuco)">Cedro</a></td>
+<td>5&#160;394&#160;73</td>
+</tr>
+<tr>
+<td>129</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_Lagoa_do_Ouro_PE.jpg/20px-Bandeira_Lagoa_do_Ouro_PE.jpg" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_Lagoa_do_Ouro_PE.jpg/30px-Bandeira_Lagoa_do_Ouro_PE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_Lagoa_do_Ouro_PE.jpg/40px-Bandeira_Lagoa_do_Ouro_PE.jpg 2x" data-file-width="640" data-file-height="404" /> <a href="/wiki/Lagoa_do_Ouro" title="Lagoa do Ouro">Lagoa do Ouro</a></td>
+<td>5&#160;387&#160;76</td>
+</tr>
+<tr>
+<td>130</td>
+<td><a href="/wiki/Santa_Maria_do_Cambuc%C3%A1" title="Santa Maria do Cambucá">Santa Maria do Cambucá</a></td>
+<td>5&#160;382&#160;89</td>
+</tr>
+<tr>
+<td>131</td>
+<td><a href="/wiki/S%C3%A3o_Joaquim_do_Monte" title="São Joaquim do Monte">São Joaquim do Monte</a></td>
+<td>5&#160;382&#160;55</td>
+</tr>
+<tr>
+<td>132</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeirapocao.JPG/20px-Bandeirapocao.JPG" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeirapocao.JPG/30px-Bandeirapocao.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeirapocao.JPG/40px-Bandeirapocao.JPG 2x" data-file-width="923" data-file-height="588" /> <a href="/wiki/Po%C3%A7%C3%A3o_(Pernambuco)" title="Poção (Pernambuco)">Poção</a></td>
+<td>5&#160;381&#160;50</td>
+</tr>
+<tr>
+<td>133</td>
+<td><a href="/wiki/%C3%81guas_Belas_(Pernambuco)" title="Águas Belas (Pernambuco)">Águas Belas</a></td>
+<td>5&#160;377&#160;75</td>
+</tr>
+<tr>
+<td>134</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bandeira_orobo.gif/20px-Bandeira_orobo.gif" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bandeira_orobo.gif/30px-Bandeira_orobo.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bandeira_orobo.gif/40px-Bandeira_orobo.gif 2x" data-file-width="393" data-file-height="216" /> <a href="/wiki/Orob%C3%B3" title="Orobó">Orobó</a></td>
+<td>5&#160;373&#160;70</td>
+</tr>
+<tr>
+<td>135</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandeira-alian%C3%A7a.png/20px-Bandeira-alian%C3%A7a.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandeira-alian%C3%A7a.png/30px-Bandeira-alian%C3%A7a.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandeira-alian%C3%A7a.png/40px-Bandeira-alian%C3%A7a.png 2x" data-file-width="309" data-file-height="216" /> <a href="/wiki/Alian%C3%A7a_(Pernambuco)" title="Aliança (Pernambuco)">Aliança</a></td>
+<td>5&#160;341&#160;91</td>
+</tr>
+<tr>
+<td>136</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Verdejante_flag.jpg/20px-Verdejante_flag.jpg" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Verdejante_flag.jpg/30px-Verdejante_flag.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Verdejante_flag.jpg/40px-Verdejante_flag.jpg 2x" data-file-width="251" data-file-height="141" /> <a href="/wiki/Verdejante" title="Verdejante">Verdejante</a></td>
+<td>5&#160;331&#160;95</td>
+</tr>
+<tr>
+<td>137</td>
+<td><a href="/wiki/Caet%C3%A9s_(Pernambuco)" title="Caetés (Pernambuco)">Caetés</a></td>
+<td>5&#160;297&#160;53</td>
+</tr>
+<tr>
+<td>138</td>
+<td><a href="/wiki/S%C3%A3o_Jos%C3%A9_do_Belmonte" title="São José do Belmonte">São José do Belmonte</a></td>
+<td>5&#160;292&#160;27</td>
+</tr>
+<tr>
+<td>139</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Brejinho_(Pernambuco)" title="Brejinho (Pernambuco)">Brejinho</a></td>
+<td>5&#160;287&#160;22</td>
+</tr>
+<tr>
+<td>140</td>
+<td><a href="/wiki/Quixaba_(Pernambuco)" title="Quixaba (Pernambuco)">Quixaba</a></td>
+<td>5&#160;253&#160;09</td>
+</tr>
+<tr>
+<td>141</td>
+<td><a href="/wiki/Wikipedia:Carregar_ficheiro?wpDestFile=Bandeira_de_Terezinha_(PE).jpg" class="new" title="Ficheiro:Bandeira de Terezinha (PE).jpg">20px</a> <a href="/wiki/Terezinha" title="Terezinha">Terezinha</a></td>
+<td>5&#160;250&#160;59</td>
+</tr>
+<tr>
+<td>142</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Solid%C3%A3o_(Pernambuco)" title="Solidão (Pernambuco)">Solidão</a></td>
+<td>5&#160;231&#160;57</td>
+</tr>
+<tr>
+<td>143</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/2_arquivo.jpg/20px-2_arquivo.jpg" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/2_arquivo.jpg/30px-2_arquivo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/2_arquivo.jpg/40px-2_arquivo.jpg 2x" data-file-width="1416" data-file-height="884" /> <a href="/wiki/Canhotinho" title="Canhotinho">Canhotinho</a></td>
+<td>5&#160;227&#160;32</td>
+</tr>
+<tr>
+<td>144</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Moreil%C3%A2ndia" title="Moreilândia">Moreilândia</a></td>
+<td>5&#160;221&#160;85</td>
+</tr>
+<tr>
+<td>145</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Serrita.gif/20px-Serrita.gif" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Serrita.gif/30px-Serrita.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Serrita.gif/40px-Serrita.gif 2x" data-file-width="309" data-file-height="216" /> <a href="/wiki/Serrita" title="Serrita">Serrita</a></td>
+<td>5&#160;219&#160;62</td>
+</tr>
+<tr>
+<td>146</td>
+<td><a href="/wiki/%C3%81gua_Preta" title="Água Preta">Água Preta</a></td>
+<td>5&#160;218&#160;32</td>
+</tr>
+<tr>
+<td>147</td>
+<td><a href="/wiki/Quipap%C3%A1" title="Quipapá">Quipapá</a></td>
+<td>5&#160;188&#160;66</td>
+</tr>
+<tr>
+<td>148</td>
+<td><a href="/wiki/Wikipedia:Carregar_ficheiro?wpDestFile=Bandeira_de_Buenos_Aires_(PE).jpg" class="new" title="Ficheiro:Bandeira de Buenos Aires (PE).jpg">20px</a> <a href="/wiki/Buenos_Aires_(Pernambuco)" title="Buenos Aires (Pernambuco)">Buenos Aires</a></td>
+<td>5&#160;180&#160;02</td>
+</tr>
+<tr>
+<td>149</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bandeira_Brejo_da_Madre_de_Deus.png/20px-Bandeira_Brejo_da_Madre_de_Deus.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bandeira_Brejo_da_Madre_de_Deus.png/30px-Bandeira_Brejo_da_Madre_de_Deus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bandeira_Brejo_da_Madre_de_Deus.png/40px-Bandeira_Brejo_da_Madre_de_Deus.png 2x" data-file-width="422" data-file-height="298" /> <a href="/wiki/Brejo_da_Madre_de_Deus" title="Brejo da Madre de Deus">Brejo da Madre de Deus</a></td>
+<td>5&#160;177&#160;67</td>
+</tr>
+<tr>
+<td>150</td>
+<td><a href="/wiki/Lagoa_do_Carro" title="Lagoa do Carro">Lagoa do Carro</a></td>
+<td>5&#160;177&#160;40</td>
+</tr>
+<tr>
+<td>151</td>
+<td><a href="/wiki/Tacaimb%C3%B3" title="Tacaimbó">Tacaimbó</a></td>
+<td>5&#160;173&#160;04</td>
+</tr>
+<tr>
+<td>152</td>
+<td><a href="/wiki/Altinho" title="Altinho">Altinho</a></td>
+<td>5&#160;158&#160;35</td>
+</tr>
+<tr>
+<td>153</td>
+<td><a href="/wiki/Barra_de_Guabiraba" title="Barra de Guabiraba">Barra de Guabiraba</a></td>
+<td>5&#160;139&#160;28</td>
+</tr>
+<tr>
+<td>154</td>
+<td><a href="/wiki/Iati" title="Iati">Iati</a></td>
+<td>5&#160;091&#160;79</td>
+</tr>
+<tr>
+<td>155</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bandeira-juremape.jpg/20px-Bandeira-juremape.jpg" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bandeira-juremape.jpg/30px-Bandeira-juremape.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bandeira-juremape.jpg/40px-Bandeira-juremape.jpg 2x" data-file-width="250" data-file-height="153" /> <a href="/wiki/Jurema_(Pernambuco)" title="Jurema (Pernambuco)">Jurema</a></td>
+<td>5&#160;082&#160;98</td>
+</tr>
+<tr>
+<td>156</td>
+<td><a href="/wiki/Xex%C3%A9u" title="Xexéu">Xexéu</a></td>
+<td>5&#160;082&#160;62</td>
+</tr>
+<tr>
+<td>157</td>
+<td><a href="/wiki/Gl%C3%B3ria_do_Goit%C3%A1" title="Glória do Goitá">Glória do Goitá</a></td>
+<td>5&#160;072&#160;56</td>
+</tr>
+<tr>
+<td>158</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Ch%C3%A3_de_Alegria" title="Chã de Alegria">Chã de Alegria</a></td>
+<td>5&#160;068&#160;25</td>
+</tr>
+<tr>
+<td>159</td>
+<td><a href="/wiki/Bodoc%C3%B3" title="Bodocó">Bodocó</a></td>
+<td>5&#160;064&#160;24</td>
+</tr>
+<tr>
+<td>160</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bandeira_jaqueira.png/20px-Bandeira_jaqueira.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bandeira_jaqueira.png/30px-Bandeira_jaqueira.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bandeira_jaqueira.png/40px-Bandeira_jaqueira.png 2x" data-file-width="150" data-file-height="96" /> <a href="/wiki/Jaqueira_(Pernambuco)" title="Jaqueira (Pernambuco)">Jaqueira</a></td>
+<td>5&#160;032&#160;16</td>
+</tr>
+<tr>
+<td>161</td>
+<td><a href="/wiki/Carna%C3%ADba" title="Carnaíba">Carnaíba</a></td>
+<td>5&#160;032&#160;00</td>
+</tr>
+<tr>
+<td>162</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Tupanatinga" title="Tupanatinga">Tupanatinga</a></td>
+<td>4&#160;999&#160;87</td>
+</tr>
+<tr>
+<td>163</td>
+<td><a href="/wiki/Frei_Miguelinho" title="Frei Miguelinho">Frei Miguelinho</a></td>
+<td>4&#160;996&#160;22</td>
+</tr>
+<tr>
+<td>164</td>
+<td><a href="/wiki/Catende" title="Catende">Catende</a></td>
+<td>4&#160;992&#160;85</td>
+</tr>
+<tr>
+<td>165</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Maraial" title="Maraial">Maraial</a></td>
+<td>4&#160;981&#160;65</td>
+</tr>
+<tr>
+<td>166</td>
+<td><a href="/wiki/Santa_Cruz_(Pernambuco)" title="Santa Cruz (Pernambuco)">Santa Cruz</a></td>
+<td>4&#160;976&#160;64</td>
+</tr>
+<tr>
+<td>167</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Casinhas" title="Casinhas">Casinhas</a></td>
+<td>4&#160;970&#160;39</td>
+</tr>
+<tr>
+<td>168</td>
+<td><a href="/wiki/S%C3%A3o_Benedito_do_Sul" title="São Benedito do Sul">São Benedito do Sul</a></td>
+<td>4&#160;944&#160;80</td>
+</tr>
+<tr>
+<td>169</td>
+<td><a href="/wiki/Lagoa_dos_Gatos" title="Lagoa dos Gatos">Lagoa dos Gatos</a></td>
+<td>4&#160;943&#160;30</td>
+</tr>
+<tr>
+<td>170</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_passira.png/20px-Bandeira_passira.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_passira.png/30px-Bandeira_passira.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_passira.png/40px-Bandeira_passira.png 2x" data-file-width="300" data-file-height="200" /> <a href="/wiki/Passira" title="Passira">Passira</a></td>
+<td>4&#160;932&#160;08</td>
+</tr>
+<tr>
+<td>171</td>
+<td><a href="/wiki/Panelas" title="Panelas">Panelas</a></td>
+<td>4&#160;915&#160;43</td>
+</tr>
+<tr>
+<td>172</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bandeira_de_Iguaraci.jpg/20px-Bandeira_de_Iguaraci.jpg" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bandeira_de_Iguaraci.jpg/30px-Bandeira_de_Iguaraci.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bandeira_de_Iguaraci.jpg/40px-Bandeira_de_Iguaraci.jpg 2x" data-file-width="3071" data-file-height="2362" /> <a href="/wiki/Iguaraci" title="Iguaraci">Iguaraci</a></td>
+<td>4&#160;898&#160;95</td>
+</tr>
+<tr>
+<td>173</td>
+<td><a href="/wiki/Santa_Terezinha_(Pernambuco)" title="Santa Terezinha (Pernambuco)">Santa Terezinha</a></td>
+<td>4&#160;852&#160;15</td>
+</tr>
+<tr>
+<td>174</td>
+<td><a href="/wiki/Itapetim" title="Itapetim">Itapetim</a></td>
+<td>4&#160;824&#160;93</td>
+</tr>
+<tr>
+<td>175</td>
+<td><a href="/wiki/Bel%C3%A9m_de_Maria" title="Belém de Maria">Belém de Maria</a></td>
+<td>4&#160;764&#160;60</td>
+</tr>
+<tr>
+<td>176</td>
+<td><a href="/wiki/Tacaratu" title="Tacaratu">Tacaratu</a></td>
+<td>4&#160;712&#160;06</td>
+</tr>
+<tr>
+<td>177</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/FLORES.JPG/20px-FLORES.JPG" width="20" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/FLORES.JPG/30px-FLORES.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/FLORES.JPG/40px-FLORES.JPG 2x" data-file-width="150" data-file-height="119" /> <a href="/wiki/Flores_(Pernambuco)" title="Flores (Pernambuco)">Flores</a></td>
+<td>4&#160;661&#160;36</td>
+</tr>
+<tr>
+<td>178</td>
+<td><a href="/wiki/Wikipedia:Carregar_ficheiro?wpDestFile=Bandeira_de_Gameleira_(PE).jpg" class="new" title="Ficheiro:Bandeira de Gameleira (PE).jpg">20px</a> <a href="/wiki/Gameleira_(Pernambuco)" title="Gameleira (Pernambuco)">Gameleira</a></td>
+<td>4&#160;613&#160;20</td>
+</tr>
+<tr>
+<td>179</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Bet%C3%A2nia_(Pernambuco)" title="Betânia (Pernambuco)">Betânia</a></td>
+<td>4&#160;557&#160;60</td>
+</tr>
+<tr>
+<td>180</td>
+<td><a href="/wiki/Carnaubeira_da_Penha" title="Carnaubeira da Penha">Carnaubeira da Penha</a></td>
+<td>4&#160;542&#160;81</td>
+</tr>
+<tr>
+<td>181</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Santa_Filomena_(Pernambuco)" title="Santa Filomena (Pernambuco)">Santa Filomena</a></td>
+<td>4&#160;533&#160;00</td>
+</tr>
+<tr>
+<td>182</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Santa_Cruz_da_Baixa_Verde" title="Santa Cruz da Baixa Verde">Santa Cruz da Baixa Verde</a></td>
+<td>4&#160;471&#160;27</td>
+</tr>
+<tr>
+<td>183</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/20px-Flag_of_None.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/30px-Flag_of_None.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_None.svg/40px-Flag_of_None.svg.png 2x" data-file-width="225" data-file-height="150" /> <a href="/wiki/Ara%C3%A7oiaba" title="Araçoiaba">Araçoiaba</a></td>
+<td>4&#160;357&#160;84</td>
+</tr>
+<tr>
+<td>184</td>
+<td><a href="/wiki/Manari" title="Manari">Manari</a></td>
+<td>4&#160;356&#160;90</td>
+</tr>
+<tr>
+<td>185</td>
+<td><a href="/wiki/Salgadinho_(Pernambuco)" title="Salgadinho (Pernambuco)">Salgadinho</a></td>
+<td>4&#160;273&#160;85</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Ver_tamb.C3.A9m">Ver também</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;veaction=edit&amp;vesection=1" title="Editar secção: Ver também" class="mw-editsection-visualeditor">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;action=edit&amp;section=1" title="Editar secção: Ver também">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table style="margin: 0 0 1em 1em; border: solid #0047AB 2px; background: #f9f9f9; padding: 1ex; font-size: 90%; clear: right; float: right;" class="noprint">
+<tr>
+<td><a href="/wiki/Ficheiro:BRASAOPERNAMBUCOVETOR.png" class="image" title="Portal"><img alt="Portal" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BRASAOPERNAMBUCOVETOR.png/60px-BRASAOPERNAMBUCOVETOR.png" width="60" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BRASAOPERNAMBUCOVETOR.png/90px-BRASAOPERNAMBUCOVETOR.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BRASAOPERNAMBUCOVETOR.png/120px-BRASAOPERNAMBUCOVETOR.png 2x" data-file-width="800" data-file-height="800" /></a></td>
+<td style="font-size: 8pt; padding: 4pt; line-height: 1.25em; color: red;">A Wikipédia possui o<br />
+<b><a href="/wiki/Portal:Pernambuco" title="Portal:Pernambuco"><font color="#0047AB">Portal de Pernambuco</font></a></b>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB" title="Lista de municípios de Pernambuco por PIB">Lista de municípios de Pernambuco por PIB</a></li>
+</ul>
+<h2 style="cursor: help;" title="Esta seção foi configurada para não ser editável diretamente. Edite a página toda ou a seção anterior em vez disso."><span class="mw-headline" id="Refer.C3.AAncias">Referências</span></h2>
+<div class="reflist references-small" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ol class="references">
+<li id="cite_note-IBGE_PIB_percapita-1"><span class="mw-cite-backlink"><a href="#cite_ref-IBGE_PIB_percapita_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cod.ibge.gov.br/1RR78">Produto Interno Bruto dos municípios - 2012&#160;» PIB <i>per capita</i> a preços correntes&#160;» Comparação entre os municípios: Pernambuco</a> Instituto Brasileiro de Geografia e Estatística. Visitado em 15 dez. 2014.</span></li>
+</ol>
+</div>
+<div style="clear:both;"></div>
+<table class="navbox noprint collapsible nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto;">
+<tr>
+<th colspan="1" style="text-align:center;width:100%;">
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Munic%C3%ADpios_do_Brasil_por_PIB_per_capita" title="Predefinição:Municípios do Brasil por PIB per capita"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Munic%C3%ADpios_do_Brasil_por_PIB_per_capita&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;">Municípios do Brasil por PIB per capita</span></th>
+</tr>
+<tr>
+<td colspan="1" class="" style="text-align:center;width:100%;font-size:95%;"><a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Acre_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Acre por PIB per capita (página não existe)">Acre</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Alagoas_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios de Alagoas por PIB per capita (página não existe)">Alagoas</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Amap%C3%A1_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Amapá por PIB per capita (página não existe)">Amapá</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Amazonas_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Amazonas por PIB per capita (página não existe)">Amazonas</a> • <a href="/wiki/Lista_de_munic%C3%ADpios_da_Bahia_por_PIB_per_capita" title="Lista de municípios da Bahia por PIB per capita">Bahia</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Cear%C3%A1_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Ceará por PIB per capita (página não existe)">Ceará</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Distrito_Federal_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Distrito Federal por PIB per capita (página não existe)">Distrito Federal</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Esp%C3%ADrito_Santo_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Espírito Santo por PIB per capita (página não existe)">Espírito Santo</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Goi%C3%A1s_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios de Goiás por PIB per capita (página não existe)">Goiás</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Maranh%C3%A3o_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Maranhão por PIB per capita (página não existe)">Maranhão</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Mato_Grosso_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios de Mato Grosso por PIB per capita (página não existe)">Mato Grosso</a> • <a href="/wiki/Lista_de_munic%C3%ADpios_de_Mato_Grosso_do_Sul_por_PIB_per_capita" title="Lista de municípios de Mato Grosso do Sul por PIB per capita">Mato Grosso do Sul</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Minas_Gerais_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios de Minas Gerais por PIB per capita (página não existe)">Minas Gerais</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Par%C3%A1_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Pará por PIB per capita (página não existe)">Pará</a> • <a href="/wiki/Lista_de_munic%C3%ADpios_da_Para%C3%ADba_por_PIB_per_capita" title="Lista de municípios da Paraíba por PIB per capita">Paraíba</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Paran%C3%A1_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Paraná por PIB per capita (página não existe)">Paraná</a> • <strong class="selflink">Pernambuco</strong> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Piau%C3%AD_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Piauí por PIB per capita (página não existe)">Piauí</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Rio_de_Janeiro_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Rio de Janeiro por PIB per capita (página não existe)">Rio de Janeiro</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Rio_Grande_do_Norte_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Rio Grande do Norte por PIB per capita (página não existe)">Rio Grande do Norte</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Rio_Grande_do_Sul_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Rio Grande do Sul por PIB per capita (página não existe)">Rio Grande do Sul</a> • <a href="/wiki/Lista_de_munic%C3%ADpios_de_Rond%C3%B4nia_por_PIB_per_capita" title="Lista de municípios de Rondônia por PIB per capita">Rondônia</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Roraima_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios de Roraima por PIB per capita (página não existe)">Roraima</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Santa_Catarina_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios de Santa Catarina por PIB per capita (página não existe)">Santa Catarina</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_S%C3%A3o_Paulo_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios de São Paulo por PIB per capita (página não existe)">São Paulo</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Sergipe_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios de Sergipe por PIB per capita (página não existe)">Sergipe</a> • <a href="/w/index.php?title=Lista_de_munic%C3%ADpios_do_Tocantins_por_PIB_per_capita&amp;action=edit&amp;redlink=1" class="new" title="Lista de municípios do Tocantins por PIB per capita (página não existe)">Tocantins</a></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1002
+CPU time usage: 0.642 seconds
+Real time usage: 1.014 seconds
+Preprocessor visited node count: 2258/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 28391/2097152 bytes
+Template argument size: 9062/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  494.166      1 - -total
+ 10.94%   54.045      1 - Predefinição:Municípios_do_Brasil_por_PIB_per_capita
+ 10.06%   49.726      1 - Predefinição:Navbox
+  7.37%   36.398      1 - Predefinição:Navbox/core
+  3.93%   19.429      1 - Predefinição:Referências
+  2.08%   10.279      1 - Predefinição:Citar_web
+  1.65%    8.144      1 - Predefinição:Tnavbar
+  1.51%    7.464      5 - Predefinição:Legend
+  0.86%    4.243      1 - Predefinição:Olinda
+  0.86%    4.240      1 - Predefinição:Lagoa_Grande
+-->
+
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:4256528-0!*!0!!*!4!* and timestamp 20150503195519 and revision id 40995351
+ -->
+<noscript><img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Obtida de "<a dir="ltr" href="http://pt.wikipedia.org/w/index.php?title=Lista_de_municípios_de_Pernambuco_por_PIB_per_capita&amp;oldid=40995351">http://pt.wikipedia.org/w/index.php?title=Lista_de_municípios_de_Pernambuco_por_PIB_per_capita&amp;oldid=40995351</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Listas_de_munic%C3%ADpios_de_Pernambuco" title="Categoria:Listas de municípios de Pernambuco">Listas de municípios de Pernambuco</a></li><li><a href="/wiki/Categoria:Listas_de_munic%C3%ADpios_do_Brasil_por_PIB_per_capita" title="Categoria:Listas de municípios do Brasil por PIB per capita">Listas de municípios do Brasil por PIB per capita</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categoria oculta: <ul><li><a href="/wiki/Categoria:!P%C3%A1ginas_com_ficheiros_inexistentes" title="Categoria:!Páginas com ficheiros inexistentes">!Páginas com ficheiros inexistentes</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navegação</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Ferramentas pessoais</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Lista+de+munic%C3%ADpios+de+Pernambuco+por+PIB+per+capita&amp;type=signup" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Lista+de+munic%C3%ADpios+de+Pernambuco+por+PIB+per+capita" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [o]" accesskey="o">Entrar</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Domínios</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita"  title="Ver a página de conteúdo [c]" accesskey="c">Artigo</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Discuss%C3%A3o:Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;action=edit&amp;redlink=1"  title="Discussão sobre o conteúdo da página [t]" accesskey="t">Discussão</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variantes</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Vistas</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita" >Ler</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;veaction=edit"  title="Editar esta página com o Editor Visual [v]" accesskey="v">Editar</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;action=edit"  title="Pode editar esta página.&#10;Utilize o botão de antevisão do resultado antes de gravar, por favor. [e]" accesskey="e">Editar código-fonte</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;action=history"  title="Edições anteriores desta página. [h]" accesskey="h">Ver histórico</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Mais</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Busca</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Pesquisa" title="Pesquisar na Wikipédia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Especial:Pesquisar" name="title" /><input type="submit" name="fulltext" value="Pesquisar" title="Procurar páginas que contêm este texto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"  title="Visitar a página principal"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navegação</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [z]" accesskey="z">Página principal</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li>
+													<li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li>
+													<li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [x]" accesskey="x">Página aleatória</a></li>
+													<li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li>
+													<li id="n-bug_in_article"><a href="/wiki/Wikip%C3%A9dia:Informe_um_erro">Informar um erro</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Colaboração</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li>
+													<li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li>
+													<li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li>
+													<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="A lista de mudanças recentes nesta wiki. [r]" accesskey="r">Mudanças recentes</a></li>
+													<li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li>
+													<li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li>
+													<li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li>
+													<li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimir/exportar</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Lista+de+munic%C3%ADpios+de+Pernambuco+por+PIB+per+capita">Criar um livro</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=render_article&amp;arttitle=Lista+de+munic%C3%ADpios+de+Pernambuco+por+PIB+per+capita&amp;oldid=40995351&amp;writer=rdf2latex">Descarregar como PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;printable=yes" title="Versão para impressão desta página [p]" accesskey="p">Versão para impressão</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Ferramentas</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita" title="Lista de todas as páginas que contêm ligações para esta [j]" accesskey="j">Páginas afluentes</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita" title="Mudanças recentes nas páginas para as quais esta contém ligação [k]" accesskey="k">Alterações relacionadas</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [u]" accesskey="u">Carregar ficheiro</a></li>
+													<li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [q]" accesskey="q">Páginas especiais</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;oldid=40995351" title="Ligação permanente para esta versão da página">Ligação permanente</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;id=40995351" title="Informação sobre como citar esta página">Citar esta página</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Noutros idiomas</h3>
+
+			<div class="body">
+									<ul>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Special:NewItem?site=ptwiki&amp;page=Lista+de+munic%C3%ADpios+de+Pernambuco+por+PIB+per+capita" title="Adicionar ligações interlínguas" class="wbc-editpage">Adicionar ligações</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Esta página foi modificada pela última vez à(s) 20h24min de 3 de janeiro de 2015.</li>
+											<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons - Atribuição - Compartilha Igual 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy/en" title="wmf:Special:MyLanguage/Privacy policy/en">Política de privacidade</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+											<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Lista_de_munic%C3%ADpios_de_Pernambuco_por_PIB_per_capita&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//pt.wikipedia.org/images/wikimedia-button.png" srcset="//pt.wikipedia.org/images/wikimedia-button-1.5x.png 1.5x, //pt.wikipedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//pt.wikipedia.org/static/1.26wmf4/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//pt.wikipedia.org/static/1.26wmf4/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //pt.wikipedia.org/static/1.26wmf4/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Topicon","ext.gadget.Metacaixa","ext.gadget.TitleRewrite","ext.gadget.ElementosOcultaveis","ext.gadget.FeedbackHighlight","ext.gadget.ReferenceTooltips","ext.gadget.InterprojectLinks","ext.gadget.hideRefBrakets","ext.gadget.NewVillagePump","ext.gadget.wikibugs","ext.gadget.charinsert","ext.gadget.EnhancedSearch","ext.gadget.WikiMiniAtlas","ext.gadget.PagesForDeletion","ext.gadget.SVGPNG","ext.gadget.featured-articles-links","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;33988450"></script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//pt.wikipedia.org/w/load.php?debug=false\u0026amp;lang=pt\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":150,"wgHostname":"mw1087"});
+}</script>
+	</body>
+</html>
