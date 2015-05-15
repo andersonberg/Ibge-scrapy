@@ -11,3 +11,12 @@ import scrapy
 class SiemensScrapyItem(scrapy.Item):
     cidade = scrapy.Field()
     pib = scrapy.Field()
+
+
+class CnesScrapyItem(scrapy.Item):
+    cidade = scrapy.Field()
+    equipamento = scrapy.Field()
+    existentes = scrapy.Field()
+    emUso = scrapy.Field()
+    existentesSUS = scrapy.Field()
+    emUsoSUS = scrapy.Field()
