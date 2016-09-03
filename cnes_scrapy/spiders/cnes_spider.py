@@ -45,8 +45,8 @@ class CnesSpider(scrapy.Spider):
 
     def get_cities(self):
         codigos_cidades = []
-        filename = "ANS Vidas Assistidas NE.xls"
-        data = pd.read_excel(filename, parse_cols=0)
+        filename = "Planilhas/ANS Vidas Assistidas.xls"
+        data = pd.read_excel(filename, sheetname="Sudeste", parse_cols=0)
         for line in data.values:
             for cidade in line:
                 cod_cidade = re.match(r'[\d]+', cidade)
