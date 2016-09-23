@@ -71,10 +71,10 @@ def get_city_pib(pib, city_name):
 
 
 def create_coverage_sheet():
-    populacao = pd.read_excel("Planilhas/Nordeste/total_populacao_alagoas.xls")
-    equipamentos = pd.read_excel("Planilhas/Equipamentos por município.xls")
-    ans = pd.read_excel("Planilhas/ANS Vidas Assistidas NE.xls")
-    pib = pd.read_excel("Planilhas/PIBMunicipal2008-2012.xls", header=5, parse_cols="A,F,G")
+    populacao = pd.read_excel("../Planilhas/Nordeste/total_populacao_alagoas.xls")
+    equipamentos = pd.read_excel("../Planilhas/Equipamentos por município.xls")
+    ans = pd.read_excel("../Planilhas/ANS Vidas Assistidas NE.xls")
+    pib = pd.read_excel("../Planilhas/PIBMunicipal2008-2012.xls", header=5, parse_cols="A,F,G")
 
     # Ajustar o slide para o Estado sendo processado
     pib = pib[1666:1768]
