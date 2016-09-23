@@ -4,23 +4,42 @@ import numpy as np
 
 
 def get_equipments(equip):
-    raio_x = equip[equip["equipamento"].map(lambda x: "raio x" in x.encode('utf8').lower() and "dentario" not in x.encode('utf8').lower() and "densitometria" not in x.encode('utf8').lower())]
-    mamografo = equip[equip["equipamento"].map(lambda x: "mamografo" in x.encode('utf8').lower())]
-    ultrassom = equip[equip["equipamento"].map(lambda x: "ultrassom" in x.encode('utf8').lower())]
-    ressonancia = equip[equip["equipamento"].map(lambda x: "ressonancia" in x.encode('utf8').lower())]
-    tomografo = equip[equip["equipamento"].map(lambda x: "tomógrafo" in x.encode('utf8').lower())]
-    pet_ct = equip[equip["equipamento"].map(lambda x: "pet/ct" in x.encode('utf8').lower())]
-    gama = equip[equip["equipamento"].map(lambda x: "gama" in x.encode('utf8').lower())]
+    # raio_x = equip[equip["equipamento"].map(lambda x: "raio x" in x.encode('utf8').lower() and "dentario" not in x.encode('utf8').lower() and "densitometria" not in x.encode('utf8').lower())]
+    raio_x = equip[equip["equipamento"].map(lambda x: "raio x" in x.lower() and "dentario" not in x.lower() and "densitometria" not in x.lower())]
+    mamografo = equip[equip["equipamento"].map(lambda x: "mamografo" in x.lower())]
+    ultrassom = equip[equip["equipamento"].map(lambda x: "ultrassom" in x.lower())]
+    ressonancia = equip[equip["equipamento"].map(lambda x: "ressonancia" in x.lower())]
+    tomografo = equip[equip["equipamento"].map(lambda x: "tomógrafo" in x.lower())]
+    pet_ct = equip[equip["equipamento"].map(lambda x: "pet/ct" in x.lower())]
+    gama = equip[equip["equipamento"].map(lambda x: "gama" in x.lower())]
 
     equipments_totals = {"XP": 0, "US": 0, "MR": 0, "CT": 0, "MI": 0}
 
+    sum_raio_x = 0
+    sum_ultrassom = 0
+    sum_ressonancia = 0
+    sum_tomografo = 0
+    sum_pet = 0
     if not raio_x.empty:
-        equipments_totals.update({"XP": raio_x["existentes"].sum() + mamografo["existentes"].sum()})
+        sum_raio_x = raio_x["existentes"].sum()
+    if not mamografo.empty:
+        sum_raio_x += mamografo["existentes"].sum()
+    if not ultrassom.empty:
+        sum_ultrassom = ultrassom["existentes"].sum()
+    if not ressonancia.empty:
+        sum_ressonancia = ressonancia["existentes"].sum()
+    if not tomografo.empty:
+        sum_tomografo = tomografo["existentes"].sum()
+    if not pet_ct.empty:
+        sum_pet = pet_ct["existentes"].sum()
+    if not gama.empty:
+        sum_pet += gama["existentes"].sum()
 
-    equipments_totals.update({"US": ultrassom["existentes"].sum()})
-    equipments_totals.update({"MR": ressonancia["existentes"].sum()})
-    equipments_totals.update({"CT": tomografo["existentes"].sum()})
-    equipments_totals.update({"MI": pet_ct["existentes"].sum() + gama["existentes"].sum()})
+    equipments_totals.update({"XP": sum_raio_x})
+    equipments_totals.update({"US": sum_ultrassom})
+    equipments_totals.update({"MR": sum_ressonancia})
+    equipments_totals.update({"CT": sum_tomografo})
+    equipments_totals.update({"MI": sum_pet})
 
     return equipments_totals
 
@@ -51,11 +70,11 @@ def get_city_pib(pib, city_name):
     return city_pib, city_pib_per_capita
 
 
-if __name__ == '__main__':
-    populacao = pd.read_excel("Planilhas/total_populacao_alagoas.xls")
+def create_coverage_sheet():
+    populacao = pd.read_excel("Planilhas/Nordeste/total_populacao_alagoas.xls")
     equipamentos = pd.read_excel("Planilhas/Equipamentos por município.xls")
     ans = pd.read_excel("Planilhas/ANS Vidas Assistidas NE.xls")
-    pib = pd.read_excel("Planilhas/PIBMunicipal2008-2012.xlsx", header=5, parse_cols="A,F,G")
+    pib = pd.read_excel("Planilhas/PIBMunicipal2008-2012.xls", header=5, parse_cols="A,F,G")
 
     # Ajustar o slide para o Estado sendo processado
     pib = pib[1666:1768]
@@ -95,15 +114,19 @@ if __name__ == '__main__':
             city_list.append(info_dict)
 
         except ValueError:
-            print 'ValueError'
+            print('ValueError')
+            print(row)
             continue
         except TypeError:
-            print 'TypeError'
-            print result3.head()
-            print city_name
+            print('TypeError')
+            print(row)
             continue
 
     result_final = result_final.append(city_list, ignore_index=True)
 
     # Trocar o nome da planilha para o Estado sendo processado
     result_final.to_excel("Cobertura AL.xls", index=False)
+
+
+if __name__ == '__main__':
+    create_coverage_sheet()
