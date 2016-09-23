@@ -7,4 +7,6 @@ setup(
     author_email='andersonberg@gmail.com',
     description='IBGE and ANS data analyzer',
     packages=['cobertura'],
+    setup_requires=['pytest-runner'],
+    tests_require=['pytest']
 )
