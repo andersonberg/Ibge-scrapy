@@ -5,5 +5,6 @@ setup(
     version='0.1',
     author='Anderson Berg',
     author_email='andersonberg@gmail.com',
-    description='IBGE and ANS data analyzer'
+    description='IBGE and ANS data analyzer',
+    packages=['cobertura'],
 )
