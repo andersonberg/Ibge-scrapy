@@ -127,3 +127,7 @@ def create_coverage_sheet():
     # Trocar o nome da planilha para o Estado sendo processado
     result_final.to_excel("Cobertura AL.xls", index=False)
     return result_final
+
+
+if __name__ == '__main__':
+    create_coverage_sheet()
