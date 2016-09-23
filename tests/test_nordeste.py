@@ -1,5 +1,5 @@
 import pandas as pd
-from cobertura_nordeste import get_equipments, get_city_assist, get_city_pib, create_coverage_sheet
+from cobertura.cobertura_nordeste import get_equipments, get_city_assist, get_city_pib, create_coverage_sheet
 
 
 def test_get_equipments():
