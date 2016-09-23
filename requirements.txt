@@ -1,7 +1,6 @@
 certifi==2015.4.28
 decorator==4.0.10
 entrypoints==0.2.2
--e git+git@github.com:andersonberg/Ibge-scrapy.git@0322c5a95163848ef01eefc248999cbd3d45a47c#egg=ibge_scrapy
 ipdb==0.10.1
 ipykernel==4.5.0
 ipython==5.1.0
