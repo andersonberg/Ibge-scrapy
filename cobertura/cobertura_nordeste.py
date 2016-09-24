@@ -138,6 +138,8 @@ def state_coverage(state_name, equipamentos, ans):
 
 
 def create_states_coverage():
+    xls_filename = 'Cobertura NE.xls'
+    writer = pd.ExcelWriter(xls_filename)
     equipamentos = pd.read_excel("Planilhas/Equipamentos por município.xls")
     ans = pd.read_excel("Planilhas/ANS Vidas Assistidas NE.xls")
     for state_name in estados.keys():
@@ -150,11 +152,8 @@ def create_states_coverage():
                    "XP", "US", "MR", "CT", "MI"]
         state_dataframe = pd.DataFrame(columns=columns)
         state_dataframe = state_dataframe.append(city_list, ignore_index=True)
-        xls_filename = 'Cobertura ' + state_name.upper() + '.xls'
-        writer = pd.ExcelWriter(xls_filename)
-        state_dataframe.to_excel(writer, index=False)
-        writer.save()
-
+        state_dataframe.to_excel(writer, index=False, sheet_name=state_name)
+    writer.save()
 
 if __name__ == '__main__':
     create_states_coverage()
