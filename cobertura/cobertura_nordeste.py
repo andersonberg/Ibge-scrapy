@@ -2,6 +2,8 @@
 import pandas as pd
 import numpy as np
 
+from estados import estados
+
 
 def get_equipments(equip):
     # raio_x = equip[equip["equipamento"].map(lambda x: "raio x" in x.encode('utf8').lower() and "dentario" not in x.encode('utf8').lower() and "densitometria" not in x.encode('utf8').lower())]
@@ -70,23 +72,23 @@ def get_city_pib(pib, city_name):
     return city_pib, city_pib_per_capita
 
 
-def create_coverage_sheet():
-    populacao = pd.read_excel("Planilhas/Nordeste/total_populacao_alagoas.xls")
-    equipamentos = pd.read_excel("Planilhas/Equipamentos por município.xls")
-    ans = pd.read_excel("Planilhas/ANS Vidas Assistidas NE.xls")
-    pib = pd.read_excel("Planilhas/PIBMunicipal2008-2012.xls", header=5, parse_cols="A,F,G")
+def get_pib_by_state(state):
+    state_range = estados.get(state)
+    if len(state_range) > 1:
+        start_row = state_range[0]
+        end_row = state_range[1]
 
-    # Ajustar o slide para o Estado sendo processado
-    pib = pib[1666:1768]
+        pib = pd.read_excel("Planilhas/PIBMunicipal2008-2012.xls", header=5, parse_cols="A,F,G")
+        pib = pib[start_row:end_row]
 
-    columns = [u"Município",
-               u"Produto Interno Bruto (R$ 1.000 )",
-               u"PIB per capita (R$)",
-               u"Quantidade (Pessoas)",
-               "Vidas Assistidas ANS",
-               "XP", "US", "MR", "CT", "MI"]
-    result_final = pd.DataFrame(columns=columns)
+        return pib
 
+
+def state_coverage(state_name, equipamentos, ans):
+    pib = get_pib_by_state(state_name)
+    state_name_formated = state_name.replace(' ', '_')
+    total_population_sheet = 'Planilhas/Nordeste/total_populacao_' + state_name_formated.lower() + '.xls'
+    populacao = pd.read_excel(total_population_sheet)
     city_list = []
     for row in populacao.iterrows():
         try:
@@ -122,12 +124,27 @@ def create_coverage_sheet():
             print(row)
             continue
 
-    result_final = result_final.append(city_list, ignore_index=True)
+    return city_list
 
-    # Trocar o nome da planilha para o Estado sendo processado
-    result_final.to_excel("Cobertura AL.xls", index=False)
-    return result_final
+
+def create_states_coverage():
+    equipamentos = pd.read_excel("Planilhas/Equipamentos por município.xls")
+    ans = pd.read_excel("Planilhas/ANS Vidas Assistidas NE.xls")
+    for state_name in estados.keys():
+        city_list = state_coverage(state_name, equipamentos, ans)
+        columns = [u"Município",
+                   u"Produto Interno Bruto (R$ 1.000 )",
+                   u"PIB per capita (R$)",
+                   u"Quantidade (Pessoas)",
+                   "Vidas Assistidas ANS",
+                   "XP", "US", "MR", "CT", "MI"]
+        state_dataframe = pd.DataFrame(columns=columns)
+        state_dataframe = state_dataframe.append(city_list, ignore_index=True)
+        xls_filename = 'Cobertura ' + state_name.upper() + '.xls'
+        writer = pd.ExcelWriter(xls_filename)
+        state_dataframe.to_excel(writer, index=False)
+        writer.save()
 
 
 if __name__ == '__main__':
-    create_coverage_sheet()
+    create_states_coverage()

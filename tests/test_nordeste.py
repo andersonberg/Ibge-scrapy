@@ -1,5 +1,5 @@
 import pandas as pd
-from cobertura.cobertura_nordeste import get_equipments, get_city_assist, get_city_pib, create_coverage_sheet
+from cobertura.cobertura_nordeste import get_equipments, get_city_assist, get_city_pib
 
 
 def test_get_equipments():
@@ -27,9 +27,3 @@ def test_get_city_pib():
     city_pib, city_pib_per_capita = get_city_pib(pib, city_name)
     assert type(city_pib) == float
     assert type(city_pib_per_capita) == float
-
-
-def test_create_coverage_sheet():
-    result_sheet = create_coverage_sheet()
-    assert result_sheet.shape[0] > 0
-    assert result_sheet.shape[1] > 0
