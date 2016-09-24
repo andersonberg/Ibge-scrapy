@@ -127,11 +127,9 @@ def state_coverage(state_name, equipamentos, ans):
 
         except ValueError:
             print('ValueError')
-            print(row)
             continue
         except TypeError:
             print('TypeError')
-            print(row)
             continue
 
     return city_list
@@ -154,6 +152,7 @@ def create_states_coverage():
         state_dataframe = state_dataframe.append(city_list, ignore_index=True)
         state_dataframe.to_excel(writer, index=False, sheet_name=state_name)
     writer.save()
+    return state_dataframe
 
 if __name__ == '__main__':
     create_states_coverage()
