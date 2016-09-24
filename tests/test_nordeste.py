@@ -1,5 +1,5 @@
 import pandas as pd
-from cobertura.cobertura_nordeste import get_equipments, get_city_assist, get_city_pib
+from cobertura.cobertura_nordeste import get_equipments, get_city_assist, get_city_pib, get_pib_by_state
 
 
 def test_get_equipments():
@@ -20,6 +20,12 @@ def test_get_city_assist():
     assert type(city_assist) == int
 
 
+def test_get_city_assist_zero():
+    ans = pd.read_excel("Planilhas/ANS Vidas Assistidas NE.xls")
+    city_assist = get_city_assist(ans, 2503753)
+    assert city_assist == 0
+
+
 def test_get_city_pib():
     pib = pd.read_excel("Planilhas/PIBMunicipal2008-2012.xls", header=5, parse_cols="A,F,G")
     pib = pib[1666:1768]
@@ -27,3 +33,9 @@ def test_get_city_pib():
     city_pib, city_pib_per_capita = get_city_pib(pib, city_name)
     assert type(city_pib) == float
     assert type(city_pib_per_capita) == float
+
+
+def test_get_pib_by_state():
+    pib_state = get_pib_by_state('pernambuco')
+    assert pib_state.shape[0] > 0
+    assert pib_state.shape[1] > 0
