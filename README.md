@@ -7,9 +7,12 @@ This script synthesise GDP (PIB in portuguese) data, total population ([IBGE](ht
 
 ## Usage
 Call the main script:
+
     $python cobertura/cobertura_nordeste.py
+
 It will generate an excel file named "Cobertura NE.xls"
 
 ## Tests
 To run the tests, just do:
+
     $python setup.py tests
