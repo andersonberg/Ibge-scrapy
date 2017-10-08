@@ -12,11 +12,11 @@ class PibSpider(scrapy.Spider):
         table = response.xpath('//table[@class="wikitable sortable"]')
         for sel in table.xpath('.//td'):
             pib = sel.xpath('text()').re(r'\d{1,3}\s+\d{1,3}\s+\d{1,3}')
-            if len(pib) > 0:
-                print "PIB: %s" % pib[-1]
+            if pib:
+                print("PIB: %s" % pib[-1])
             cidade = sel.xpath('a/text()').extract()
-            if len(cidade) > 0:
-                print "Cidade: %s" % cidade[-1]
+            if cidade:
+                print("Cidade: %s" % cidade[-1])
         # filename = response.url.split("/")[-2]
         # with open(filename, 'wb') as f:
         #     f.write(response.body)

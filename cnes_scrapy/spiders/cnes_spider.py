@@ -4,38 +4,39 @@ __author__ = 'anderson'
 import re
 import scrapy
 import pandas as pd
-from siemens_scrapy.items import CnesScrapyItem
+from cnes_scrapy.items import CnesScrapyItem
 
 
 class CnesSpider(scrapy.Spider):
     name = "cnes"
-    allowed_domains = ["cnes.datasus.gov.br"]
+    allowed_domains = ["cnes2.datasus.gov.br/"]
     start_urls = []
 
     def __init__(self):
         codigos_cidades = self.get_cities()
         for cidade in codigos_cidades:
             codigo_estado = self.get_state_code(cidade)
-            self.start_urls.append("http://cnes.datasus.gov.br/Mod_Ind_Equipamento.asp?VEstado=%s&VMun=%s" % (codigo_estado, cidade))
+            self.start_urls.append(
+                "http://cnes2.datasus.gov.br/Mod_Ind_Equipamento.asp?VEstado=%s&VMun=%s" % (codigo_estado, cidade))
 
     def parse(self, response):
         table = response.xpath('//table[@border="1"]')
         for sel in table.xpath('.//tr'):
             line = sel.xpath('td/font/text()').extract()
-            equipamento = sel.xpath('td/font/a/text()').extract()
+            equipamento = sel.xpath('td/font/a/text()').extract_first()
             cidade = self.get_city_from_url(response.url)
 
             # Preenche o item com os dados extraídos
             item = CnesScrapyItem()
             item['cidade'] = cidade
 
-            if len(line) > 0 and len(equipamento) > 0:
+            if line and equipamento:
                 existentes = line[-4]
                 emUso = line[-3]
                 existentesSUS = line[-2]
                 emUsoSUS = line[-1]
 
-                item['equipamento'] = equipamento[0]
+                item['equipamento'] = equipamento
                 item['existentes'] = existentes
                 item['emUso'] = emUso
                 item['existentesSUS'] = existentesSUS
@@ -45,7 +46,7 @@ class CnesSpider(scrapy.Spider):
 
     def get_cities(self):
         codigos_cidades = []
-        filename = "Planilhas/ANS Vidas Assistidas.xls"
+        filename = "../Planilhas/ANS Vidas Assistidas.xls"
         data = pd.read_excel(filename, sheetname="Sudeste", parse_cols=0)
         for line in data.values:
             for cidade in line:
