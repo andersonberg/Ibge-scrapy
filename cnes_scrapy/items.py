@@ -8,7 +8,7 @@
 import scrapy
 
 
-class SiemensScrapyItem(scrapy.Item):
+class PibScrapyItem(scrapy.Item):
     cidade = scrapy.Field()
     pib = scrapy.Field()
 
